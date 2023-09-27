@@ -7,6 +7,9 @@ CNN_CIFAR10_Local.ipynb (or CNN_CIFAR10_Local.py) reads datasets from a local di
 ## Datasets
 CIFAR10 datasets either in the local directory, cifar-10-datasets, or on the AWS S3 bucket.
 
+## Architecture
+The major steps in the project are loading data, building the model, training the model on the training dataset, and saving the best weights, and after that, loading the saved weights and making prediction on the test dataset.
+
 ## Requirements
 Python, Pytorch, Jupyter Notebook, AWS S3, and AWS Sagemaker.
 
