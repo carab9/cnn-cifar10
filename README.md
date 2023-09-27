@@ -8,10 +8,10 @@ CNN_CIFAR10_Local.ipynb (or CNN_CIFAR10_Local.py) reads datasets from a local di
 CIFAR10 datasets either in the local directory, cifar-10-datasets, or on the AWS S3 bucket.
 
 ## Requirements
-Python, Pytorch, Jupyter Notebook.
+Python, Pytorch, Jupyter Notebook, AWS S3, and AWS Sagemaker.
 
 ## Technical Skills
-Pytorch APIs, CNN architecture, regularization techniques such as L2 regularization, reducing learning rate, early stopping, and data augumentation.
+Pytorch APIs, CNN architecture, regularization techniques such as L2 regularization, reducing learning rate, early stopping, and data augumentation, AWS S3, and AWS Sagemaker.
 
 ## Results
 ![image](https://github.com/carab9/cnn-cifar10/blob/main/cifar10_loss.png?raw=true)
